@@ -1,0 +1,30 @@
+{
+  "name": "learn-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huyendndev01/nodejs-blog.git"
+  },
+  "keywords": [
+    "nodejs",
+    "blog",
+    "hyndev"
+  ],
+  "author": "hyndn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huyendndev01/nodejs-blog/issues"
+  },
+  "homepage": "https://github.com/huyendndev01/nodejs-blog#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
